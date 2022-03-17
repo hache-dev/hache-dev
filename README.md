@@ -1,7 +1,7 @@
 <pre>
 - 👋 _aka -> ~ @hache-dev
-- 💼 _portfolio -> ~@old skills
-<pre>
+- 💼 _portfolio -> ~@old skills html+css
+
 <a href="https://hache-dev.github.io/proyectos/arosil/">https://hache-dev.github.io/proyectos/arosil/</a>
 <a href="https://hache-dev.github.io/proyectos/arsinteriores/">https://hache-dev.github.io/proyectos/arsinteriores/</a>
 <a href="https://hache-dev.github.io/proyectos/brancateam/">https://hache-dev.github.io/proyectos/brancateam/</a>
@@ -14,6 +14,9 @@
 <a href="https://hache-dev.github.io/proyectos/scs/">https://hache-dev.github.io/proyectos/scs/</a>
 <a href="https://hache-dev.github.io/proyectos/thblog/">https://hache-dev.github.io/proyectos/thblog/</a>
 <a href="https://hache-dev.github.io/proyectos/wishdeath/">https://hache-dev.github.io/proyectos/wishdeath/</a>
+
+</pre>
+
 <!---
 hache-dev/hache-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
