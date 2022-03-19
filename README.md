@@ -16,6 +16,8 @@
 <a href="https://hache-dev.github.io/proyectos/scs/">https://hache-dev.github.io/proyectos/scs/</a>
 <a href="https://hache-dev.github.io/proyectos/thblog/">https://hache-dev.github.io/proyectos/thblog/</a>
 <a href="https://hache-dev.github.io/proyectos/wishdeath/">https://hache-dev.github.io/proyectos/wishdeath/</a>
+<a href="https://hache-dev.github.io/proyectos/lab/">https://hache-dev.github.io/proyectos/lab/</a>
+
 
 </pre>
 
